@@ -11,6 +11,7 @@
 // @match        *iogames.space/*
 // @match        *titotu.io/*
 // @match        *io-games.io/*
+// @match	 *://sites.google.com/site/unblockedgamessms6969/bonk-io*
 // ==/UserScript==
 
 setTimeout(function() {
